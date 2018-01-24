@@ -1,0 +1,56 @@
+h1 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 40px;
+  color: #0F2;
+}
+header {
+  background-color: #FFF;
+  background-image: url("hub.jpg");
+  padding: 10vw 2em;
+  background-position: left bottom;
+  background-size: cover;
+}
+#m {
+  border-style: solid;
+  border-color: #000;
+  border-width: 2px;
+
+}
+#n {
+  text-indent: 5;
+  color: #000;
+  width: responsive;
+}
+#b {
+  background-color: #FFF;
+  background-image: url("friends.jpg");
+  padding: 5vw 2em;
+  background-position: top;
+  background-size: cover;
+}
+#v {
+  background-color: #FFF;
+  background-image: url("remote.jpg");
+  padding: 11vw 2em;
+  background-position: center;
+  background-size: cover;
+}
+#c {
+  background-color: #FFF;
+  background-image: url("arcade.jpg");
+  padding: 7vw 2em;
+  background-position: top;
+  background-size: cover;
+}
+#x {
+  background-color: #FFF;
+  background-image: url("play.jpg");
+  padding: 7vw 2em;
+  background-position: center;
+  background-size: cover;
+}
+.Friends {
+  font-family: 'Mukta+Malar' , serif;
+  color: #000;
+  text-indent: 2;
+}
